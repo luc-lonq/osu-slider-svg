@@ -6,5 +6,5 @@ A Python script that can generate an svg of the shape of an osu! slider using it
 
 ## Example
 ### Path and points
-![Slider Preview](preview.svg)
+![Slider Preview](https://github.com/luc-lonq/osu-slider-svg/blob/main/example.svg)
 
